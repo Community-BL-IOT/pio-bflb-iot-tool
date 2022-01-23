@@ -1,0 +1,17 @@
+{
+  "name": "tool-bflb-iot-tool",
+  "version": "1.1000.0",
+  "description": "Programming tool for Bouffalo Labs BL60x/BL70x chips",
+  "keywords": [
+    "tools",
+    "uploader",
+    "risc-v"
+  ],
+  "homepage": "https://pypi.org/project/bflb-iot-tool/",
+  "license": "GPL-2.0-or-later",
+  "system": "*",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Community-BL-IOT/pio-bflb-iot-tool"
+  }
+}
